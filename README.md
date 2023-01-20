@@ -90,6 +90,18 @@ I'm a Mechatronics Engineer and Machine Learning Developer with a strong backgro
 
 <br/>  
 
+<h2> Certifications </h2><br/>
+<h3> Specializations </h3><br/>
+1. IBM Data Science Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2FGDUXCH8MYK">- Certificate</a> <br/>
+2. DeepLearning.AI TensorFlow Developer Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JNRT2D4TWRT8">- Certificate</a><br/>
+3. TensorFlow: Advanced Techniques Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9KLMYVYMZDSH">- Certificate</a><br/>
+<h3> Courses </h3>
+1. Natural Language Processing with Classification and Vector Spaces <a href="https://www.coursera.org/account/accomplishments/certificate/LCM8JZRXJ8ZH">- Certificate</a> <br/>
+2. Neural Networks and Deep Learning <a href="https://www.coursera.org/account/accomplishments/certificate/LGB9YG5WZXY8">- Certificate</a><br/>
+3. MLOps (Machine Learning Operations) Fundamentals <a href="https://www.coursera.org/account/accomplishments/certificate/FUBLW5AHVPFV">- Certificate</a><br/>
+4. Build Basic Generative Adversarial Networks (GANs) <a href="https://www.coursera.org/account/accomplishments/certificate/BAGMME48Y2Y2">- Certificate</a> <br/>
+5. Crash Course on Python <a href="https://www.coursera.org/account/accomplishments/certificate/8MA8HL3VGW6E">- Certificate</a><br/>
+6. Excel Basics for Data Analysis <a href="https://www.coursera.org/account/accomplishments/certificate/FBT9U2NH9S5M">- Certificate</a><br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
