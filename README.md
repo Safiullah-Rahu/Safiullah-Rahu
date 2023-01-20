@@ -1,5 +1,5 @@
-## Hey 👋, I'm Safiullah Rahu!  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Safiullah+Rahu!)](https://git.io/typing-svg)
+
 
 <a href="https://github.com/Safiullah-Rahu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -50,8 +50,9 @@ I'm a Mechatronics Engineer and Machine Learning Developer with a strong backgro
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div align="center" bg_color="0000000">
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" align="center" style="width: 100%" />
+<!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 </div>  
 
 
@@ -93,11 +94,11 @@ I'm a Mechatronics Engineer and Machine Learning Developer with a strong backgro
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=safiullah-rahu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=safiullah-rahu&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiullah-rahu&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiullah-rahu&hide_border=true&layout=compact&bg_color=00000000" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -107,13 +108,23 @@ I'm a Mechatronics Engineer and Machine Learning Developer with a strong backgro
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=safiullah-rahu&&style=flat-square)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=safiullah-rahu&&style=flat-square&bg_color=00000000)  
 
+<div align="center"><img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">  </div>
+<div align="center">
+  <h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+</div>
 <br/>  
-
-
 <br />
+<p align="center">Made with ❤️</p>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
