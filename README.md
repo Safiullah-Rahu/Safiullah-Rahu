@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Safiullah+Rahu!)](https://git.io/typing-svg)
 
 
+
 <a href="https://github.com/Safiullah-Rahu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
