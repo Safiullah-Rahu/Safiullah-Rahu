@@ -133,7 +133,7 @@ I'm a Mechatronics Engineer and Machine Learning Developer with a strong backgro
     </a>
 </details>
 </div> 
-<br />
+
 <p align="center">To get regular updates on new ML and NLP resources, <a href="https://twitter.com/safiullah_rahu">follow me on Twitter</a>.</p>
 <p align="center">Made with ❤️</p>
 
