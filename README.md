@@ -40,13 +40,11 @@ I'm a Mechatronics Engineer and Machine Learning Developer with a strong backgro
 - 🔭 I’m currently working on [development of socially assistive robot for ASD Children](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Cloud Machine Learning  
+- 🌱 I’m currently learning Cloud Machine Learning and LLMOps
   
 
 - ❓ Ask me about anything related to ML Stack and related technologies  
   
-
-- ⚡ Fun fact: I think I have a larger than average hippocampus!  
 
 
 </td><td valign="top" width="50%">
