@@ -28,7 +28,7 @@
 
 
 ### Glad to see you here!  
-I'm a Mechatronics Engineer and Machine Learning Developer with a strong background in the design and development of intelligent systems. I have experience in a variety of programming languages, including Python and C++, and is well-versed in machine learning techniques and libraries such as TensorFlow and Keras. In addition to my technical skills, I'm a highly motivated and dedicated professional who is always looking for new challenges and opportunities to expand my knowledge and experience. Whether you're looking for a skilled mechatronics engineer or a talented machine learning developer, I can be an excellent choice. Check out my Github profile to see my contributions and projects.  
+I'm a Mechatronics Engineer and Machine Learning Developer with a strong background in the design and development of intelligent systems. I have experience in a variety of programming languages, including Python and C++, and is well-versed in machine learning techniques, LLMs, Generative AI Applications and libraries such as LangChain, LLamaindex, AutoGen, Crewai, TensorFlow and Keras. In addition to my technical skills, I'm a highly motivated and dedicated professional who is always looking for new challenges and opportunities to expand my knowledge and experience. Whether you're looking for a skilled mechatronics engineer or a talented machine learning developer, I can be an excellent choice. Check out my Github profile to see my contributions and projects.  
   
 
 <br/>  
