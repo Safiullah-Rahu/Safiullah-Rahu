@@ -37,7 +37,7 @@ I'm a Mechatronics Engineer and Machine Learning Developer with a strong backgro
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [development of socially assistive robot for ASD Children](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Detection of Abnormalities in Musculoskeletal Radiographs using Convolutional Transformer](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 I’m currently learning Cloud Machine Learning and LLMOps
